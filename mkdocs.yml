@@ -1,0 +1,4 @@
+site_name: mediwiki
+nav:
+  - Etusivu: index.md
+  - Tietoa: tietoa.md
