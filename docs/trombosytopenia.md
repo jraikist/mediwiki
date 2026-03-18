@@ -2,8 +2,9 @@
 
 ## Syyt
 
-##ITP
+## ITP
 
-##HIT
+## HIT
 
-##TTP
+## TTP
+Tromboottinen trombosytopenia
