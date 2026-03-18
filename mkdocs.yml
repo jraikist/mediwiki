@@ -1,6 +1,3 @@
 site_name: mediwiki
 nav:
   - Etusivu: index.md
-  - Tietoa: tietoa.md
-  - Trombosytopenia: trombosytopenia.md
-  - Verenohennuslääkkeet: noac.md
