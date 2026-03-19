@@ -10,4 +10,4 @@
 Tromboottinen trombosytopenia
 
 ## Lääketrombosytopenia
-![[laaketrombosytopenia.png]]
+![laaketrombosytopenia](img/laaketrombosytopenia.png)
