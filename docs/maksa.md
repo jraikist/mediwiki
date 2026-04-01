@@ -10,6 +10,6 @@ Maksa 2 - akuutti
 ![maksacheck](img/alkomaksa.jpeg)
 
 
-![1]
+[!1]
 
-![1]: Eneli Katunin bilirubiiniesitys
+[!1]: Eneli Katunin bilirubiiniesitys
