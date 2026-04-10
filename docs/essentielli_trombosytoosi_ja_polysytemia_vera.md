@@ -11,6 +11,7 @@ Diagnostiset pääkriteerit PVL:lle:
 
 MIPSS-PV ennustelaskuri
 
-![]()
+![ET_hoito](img/ET_hoito.png)
+
 
 [^1]: SSLY Lapin kokous 2026 - Jonna Eeva
