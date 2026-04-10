@@ -1,4 +1,4 @@
-# Tervetuloa mediwikiin
+# Tervetuloa
 
 ## Wikistä:
 

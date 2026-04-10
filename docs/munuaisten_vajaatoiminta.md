@@ -17,4 +17,9 @@ EPO target Hb 115g/l
 
 ![anemia_sources](img/anemia_sources.png)
 
+
+
+## Siirre
+Ohjeita löytyy: https://www.sny.fi/transplantaatio/
+
 [^1]: https://kdigo.org/wp-content/uploads/2026/01/KDIGO-2026-Anemia-in-CKD-Guideline.pdf
