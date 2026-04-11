@@ -1,6 +1,6 @@
 # SIBO - small intestinal bacterial overgrowth
 
-Ohutsuolen floora vääränkaltaista. Kehittyminen vaatii motiliteettihäiriön, yms. Inflammaation saa aikaiseksi invasiiviset bakteerit, anaerobeja.[^1]
+Ohutsuolen floora vääränkaltaista. Kehittyminen vaatii motiliteettihäiriön, yms. Inflammaation saa aikaiseksi invasiiviset bakteerit, anaerobeja.[^1] Esim. Targaxan.
 
 
 
