@@ -1,9 +1,27 @@
-# Tervetuloa
+# Wiki
 
-## Sivut:
-[[noac|verenohennuslääkkeet]]
-[[trombosytopenia]]
-[trombosytopenia](trombosytopenia.md)
+Welcome! Browse the pages below.
+
+## Pages
+
+- [Leukemia](Leukemia.md)
+- [Dialyysi](dialyysi.md)
+- [Dyslipidemia](dyslipidemia.md)
+- [Essentielli Trombosytoosi Ja Polysytemia Vera](essentielli_trombosytoosi_ja_polysytemia_vera.md)
+- [Hyponatremia](hyponatremia.md)
+- [Hypotermia](hypotermia.md)
+- [Insuliinit](insuliinit.md)
+- [Keuhkoembolia](keuhkoembolia.md)
+- [Maksa](maksa.md)
+- [Muistilista](muistilista.md)
+- [Munuaisten Vajaatoiminta](munuaisten_vajaatoiminta.md)
+- [Noac](noac.md)
+- [Perinnollisyys](perinnollisyys.md)
+- [Polymyalgia Rheumatica](polymyalgia_rheumatica.md)
+- [Sibo](sibo.md)
+- [Tietoa](tietoa.md)
+- [Toksiset Maksavauriot](toksiset_maksavauriot.md)
+- [Trombosytopenia](trombosytopenia.md)
 
 Jaakko Raikisto
 jaakko@raikisto.fi
