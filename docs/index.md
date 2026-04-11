@@ -1,8 +1,8 @@
-# Wiki
+# Muistiinpanot
 
-Welcome! Browse the pages below.
+Tervetuloa! Lista Jaakon muistiinpanoista.
 
-## Pages
+## Sivut
 
 - [Leukemia](Leukemia.md)
 - [Dialyysi](dialyysi.md)

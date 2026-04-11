@@ -13,8 +13,8 @@ DOCS_DIR = Path("docs")
 INDEX_FILE = DOCS_DIR / "index.md"
 
 # --- Config ---
-WIKI_TITLE = "Wiki"
-WIKI_DESCRIPTION = "Welcome! Browse the pages below."
+WIKI_TITLE = "Muistiinpanot"
+WIKI_DESCRIPTION = "Tervetuloa! Lista Jaakon muistiinpanoista."
 
 
 def slugify_to_title(filename: str) -> str:
@@ -39,7 +39,7 @@ def build_index():
         "",
         WIKI_DESCRIPTION,
         "",
-        "## Pages",
+        "## Sivut",
         "",
     ]
 
