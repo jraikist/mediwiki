@@ -15,6 +15,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 - [Maksa](maksa.md)
 - [Muistilista](muistilista.md)
 - [Munuaisten Vajaatoiminta](munuaisten_vajaatoiminta.md)
+- [Nestehoito](nestehoito.md)
 - [Noac](noac.md)
 - [Perinnollisyys](perinnollisyys.md)
 - [Polymyalgia Rheumatica](polymyalgia_rheumatica.md)
