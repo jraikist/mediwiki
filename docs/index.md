@@ -13,6 +13,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 - [Insuliinit](insuliinit.md)
 - [Keuhkoembolia](keuhkoembolia.md)
 - [Maksa](maksa.md)
+- [Monoklonaalinen Gammapatia](monoklonaalinen_gammapatia.md)
 - [Muistilista](muistilista.md)
 - [Munuaisten Vajaatoiminta](munuaisten_vajaatoiminta.md)
 - [Nestehoito](nestehoito.md)
