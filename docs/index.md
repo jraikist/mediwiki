@@ -7,6 +7,7 @@ Tervetuloa! Lista Jaakon muistiinpanoista.
 - [Leukemia](Leukemia.md)
 - [Dialyysi](dialyysi.md)
 - [Dyslipidemia](dyslipidemia.md)
+- [Eosinofilia](eosinofilia.md)
 - [Essentielli Trombosytoosi Ja Polysytemia Vera](essentielli_trombosytoosi_ja_polysytemia_vera.md)
 - [Hyponatremia](hyponatremia.md)
 - [Hypotermia](hypotermia.md)
