@@ -3,10 +3,11 @@
 ## Syyt – CAMP-E
 
 - **C** – Cancer (syöpä)
-- **A** – Adrenal insufficiency (lisämunuaisen vajaatoiminta)
+- **A** – Adrenal insufficiency (lisämunuaisen vajaatoiminta), atopia
 - **M** – Medication (lääkkeet)
 - **P** – Pathogens (taudinaiheuttajat, esim. parasiitit)
 - **E** – eGPA (eosinofiilinen granulomatoosi polyangiittiineen)
+- **DRESS** (Drug Reaction with Eosinophilia and Systemic Symptoms)
 
 [^1]
 
